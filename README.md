@@ -73,7 +73,6 @@ The OU structure was created to logically separate resources and simplify admini
 ### IT_Admins
 
 Members:
-- jsmith
 - itadmin
 
 ### HR_Users
